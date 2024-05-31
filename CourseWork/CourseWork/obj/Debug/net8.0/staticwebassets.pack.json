@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\QWE\\Лабораторные\\БД\\CourseWork\\CourseWork\\wwwroot\\Uploads\\2f0501a5-808b-45fc-8c93-69557bb71e42.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2f0501a5-808b-45fc-8c93-69557bb71e42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QWE\\Лабораторные\\БД\\CourseWork\\CourseWork\\wwwroot\\Uploads\\f7af9bcb-6d25-412b-b244-84a3ae55fcdc.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f7af9bcb-6d25-412b-b244-84a3ae55fcdc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QWE\\Лабораторные\\БД\\CourseWork\\CourseWork\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\QWE\\Лабораторные\\БД\\CourseWork\\CourseWork\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CourseWork.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CourseWork.props",
+      "PackagePath": "build\\CourseWork.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CourseWork.props",
+      "PackagePath": "buildMultiTargeting\\CourseWork.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CourseWork.props",
+      "PackagePath": "buildTransitive\\CourseWork.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

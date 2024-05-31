@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QWE\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0411\u0414\\CourseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C26E65-185A-4969-9C83-996AA00F0FEE}|CourseWork\\CourseWork.csproj|c:\\users\\qwe\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0431\u0434\\coursework\\coursework\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C26E65-185A-4969-9C83-996AA00F0FEE}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C26E65-185A-4969-9C83-996AA00F0FEE}|CourseWork\\CourseWork.csproj|c:\\users\\qwe\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0431\u0434\\coursework\\coursework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C26E65-185A-4969-9C83-996AA00F0FEE}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C26E65-185A-4969-9C83-996AA00F0FEE}|CourseWork\\CourseWork.csproj|c:\\users\\qwe\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0431\u0434\\coursework\\coursework\\models\\dto\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C26E65-185A-4969-9C83-996AA00F0FEE}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\models\\dto\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\QWE\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0411\u0414\\CourseWork\\CourseWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CourseWork\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\QWE\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0411\u0414\\CourseWork\\CourseWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CourseWork\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T04:38:47.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\QWE\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0411\u0414\\CourseWork\\CourseWork\\Models\\DTO\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "CourseWork\\Models\\DTO\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\QWE\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0411\u0414\\CourseWork\\CourseWork\\Models\\DTO\\RegistrationModel.cs",
+              "RelativeToolTip": "CourseWork\\Models\\DTO\\RegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:25:58.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\QWE\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0411\u0414\\CourseWork\\CourseWork\\Controllers\\UserAuthenticationController.cs",
+              "RelativeDocumentMoniker": "CourseWork\\Controllers\\UserAuthenticationController.cs",
+              "ToolTip": "C:\\Users\\QWE\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u0411\u0414\\CourseWork\\CourseWork\\Controllers\\UserAuthenticationController.cs",
+              "RelativeToolTip": "CourseWork\\Controllers\\UserAuthenticationController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:23:20.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
